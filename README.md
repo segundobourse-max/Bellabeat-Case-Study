@@ -1,29 +1,29 @@
 # Case Study: Bellabeat - Smart Wellness Strategy 🚀
 
-## 📌 Enlaces del Proyecto
-* [Dashboard Interactivo en Tableau](https://public.tableau.com/views/BellabeatCaseStudy_17780051125110/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-* [Presentación Ejecutiva (PDF)]([Case Study.pdf](https://github.com/user-attachments/files/27481599/Case.Study.pdf))
-* [Dataset] (https://www.kaggle.com/datasets/arashnic/fitbit)
+## 📌 Project Links
+* [Interactive Tableau Dashboard](https://public.tableau.com/views/BellabeatCaseStudy_17780051125110/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+* [Executive Presentation (PDF)](Case_Study.pdf)
+* [Dataset](https://www.kaggle.com/datasets/arashnic/fitbit)
 
-## 📖 Descripción del Proyecto
-Este análisis forma parte del equipo de **Marketing Analytics de Bellabeat**. El objetivo principal fue analizar los hábitos de uso de dispositivos inteligentes de los usuarios de Fitbit para informar y optimizar la estrategia de marketing de la aplicación Bellabeat, posicionándola como un coach de bienestar proactivo para mujeres.
+## 📖 Project Overview
+This analysis was conducted as part of the **Bellabeat Marketing Analytics team**. The primary objective was to analyze Fitbit users' smart device habits to inform and optimize Bellabeat’s marketing strategy, positioning the app as a proactive wellness coach for women.
 
-## 🛠️ Herramientas Utilizadas
-* **Tableau:** Creación de Dashboards ejecutivos y visualización de patrones de actividad.
-* **Google Presentations:** Diseño de la estrategia de comunicación y recomendaciones de marketing.
-* **Dataset:** Fitbit Fitness Tracker Data (Kaggle) - Datos de 30 usuarios durante 31 días.
+## 🛠️ Tools Used
+* **Tableau:** Executive dashboard creation and activity pattern visualization.
+* **Google Slides:** Communication strategy design and marketing recommendations.
+* **Dataset:** Fitbit Fitness Tracker Data (Kaggle) - Data from 30 users over 31 days.
 
-## 📊 Hallazgos Clave (Executive Dashboard)
-A través del análisis de los datos, se identificaron los siguientes puntos críticos:
-* **Actividad Física:** El promedio de pasos diarios es de **6,611**, cifra que se encuentra por debajo del objetivo de 10,000 recomendado por la OMS.
-* **Sedentarismo Extremo:** Los usuarios permanecen inactivos el **83.28% del día** (aproximadamente 19.9 horas o 993 minutos diarios).
-* **Calidad del Sueño:** El **33.8% de los usuarios duerme menos de 7 horas**, incumpliendo las recomendaciones de salud.
-* **Picos de Actividad:** Los lunes y miércoles son los días con mayor actividad física, con un **+18% de pasos** comparado con los martes.
+## 📊 Key Findings (Executive Dashboard)
+Through data analysis, the following critical insights were identified:
+* **Physical Activity:** Average daily steps reached **6,611**, which is below the WHO-recommended target of 10,000.
+* **Extreme Sedentary Behavior:** Users are inactive for **83.28% of the day** (approximately 19.9 hours or 993 minutes daily).
+* **Sleep Quality:** **33.8% of users sleep less than 7 hours**, failing to meet global health recommendations.
+* **Activity Peaks:** Mondays and Wednesdays show the highest physical activity, with **18% more steps** compared to Tuesdays.
 
-## 💡 Top 3 Recomendaciones de Marketing
-1. **Notificaciones Inteligentes:** Implementar recordatorios de "pausas activas" para combatir el 83% de tiempo sedentario diario.
-2. **Campaña de Sueño Saludable:** Posicionar el seguimiento del sueño de Bellabeat como una herramienta exclusiva de bienestar femenino, vinculando los datos de descanso con el ciclo menstrual.
-3. **Timing Estratégico:** Programar campañas en redes sociales y notificaciones push los **lunes y miercoles** para maximizar el engagement y la conversión a la membresía de Bellabeat.
+## 💡 Top 3 Marketing Recommendations
+1. **Smart Notifications:** Implement "active break" reminders to combat the 83% average daily sedentary time.
+2. **Holistic Sleep Campaign:** Position Bellabeat’s sleep tracking as an essential tool for women’s well-being, integrating rest data with menstrual cycle tracking.
+3. **Strategic Timing:** Schedule social media campaigns and push notifications on **Mondays and Wednesdays** to maximize engagement and conversion to Bellabeat Membership.
 
-## 📸 Visualización del Análisis
+## 📸 Analysis Visualization
 <img width="1920" height="1080" alt="Captura de pantalla 2026-05-07 111959" src="https://github.com/user-attachments/assets/41305a66-c61e-4962-afac-691fa086395c" />

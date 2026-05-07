@@ -26,4 +26,5 @@ A través del análisis de los datos, se identificaron los siguientes puntos cr�
 3. **Timing Estratégico:** Programar campañas en redes sociales y notificaciones push los **martes y domingos** para maximizar el engagement y la conversión a la membresía de Bellabeat[cite: 1].
 
 ## 📸 Visualización del Análisis
-![Dashboard de Actividad](<img width="960" height="540" alt="Case Study" src="https://github.com/user-attachments/assets/b82c1d47-26ae-4de0-b580-fc227fb3f77d" />)
+![Dashboard de Actividad](<img width="960" height="540" alt="Case Study" src="https://github.com/user-attachments/assets/3fcf8dff-945f-4d53-9eb8-6633ba306ee7" />
+)

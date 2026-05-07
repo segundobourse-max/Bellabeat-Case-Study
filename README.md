@@ -21,7 +21,7 @@ A través del análisis de los datos, se identificaron los siguientes puntos cr�
 * **Picos de Actividad:** Los lunes y miércoles son los días con mayor actividad física, con un **+18% de pasos** comparado con los martes.
 
 ## 💡 Top 3 Recomendaciones de Marketing
-1. **Notificaciones Inteligentes:** Implementar recordatorios de "pausas activas" para combatir el 83% de tiempo sedentario diario[cite: 1].
+1. **Notificaciones Inteligentes:** Implementar recordatorios de "pausas activas" para combatir el 83% de tiempo sedentario diario.
 2. **Campaña de Sueño Saludable:** Posicionar el seguimiento del sueño de Bellabeat como una herramienta exclusiva de bienestar femenino, vinculando los datos de descanso con el ciclo menstrual.
 3. **Timing Estratégico:** Programar campañas en redes sociales y notificaciones push los **lunes y miercoles** para maximizar el engagement y la conversión a la membresía de Bellabeat.
 
